@@ -1,0 +1,57 @@
+.srk-img {
+    width: 220px;
+    height: 200px; 
+    float: left;
+    padding-right: 10px;
+    border-radius: 20px;
+    }
+    
+
+.shahrukh {
+    background-color: rgb(90, 155, 212);
+    border: 5px solid;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    
+}
+.anushka { background-color: rgb(194, 56, 212);
+    border: 5px solid;
+    padding-bottom: 20px;
+    padding-top: 20px;}
+
+.as-img {
+    height: 200px;
+    float: left;
+    padding-right: 110px;
+    padding-left: 20px;
+    border-radius: 20px;}
+
+.ranveer {background-color: rgb(66, 173, 4);
+    border: 5px solid;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.rs-img {
+    float: left;
+    padding-right: 50px;
+    padding-left: 20px;
+    width:200px;
+    height: 180px;
+    border-radius: 20px;
+}
+.deepika {background-color: rgb(211, 247, 11);
+    border: 5px solid;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.dp-img {float: left;
+    padding-right: 110px;
+    padding-left: 20px;
+   height: 190px;
+
+}
